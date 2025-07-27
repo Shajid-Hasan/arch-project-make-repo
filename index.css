@@ -150,7 +150,7 @@ main > section{
     width: 1430px;
     position: relative;
     gap: 40px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .element{
@@ -182,7 +182,7 @@ main > section{
     height: 680px;
     width: 586px;
     background-color: ghostwhite;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .verion{
@@ -213,6 +213,7 @@ main > section{
 .arch-img{
     height: 870px;
     width: 700px;
+    /* margin-left: 400px; */
 }
 
 .btn{
@@ -233,4 +234,24 @@ main > section{
 
 .btn-p-2{
     color: #FFFFFF;
+}
+
+/* Some Fact */
+.some-facts{
+    margin-left: 70px;
+    /* border: 1px solid red; */
+}
+.some-facts-T{
+    height: 53px;
+    width: 258px;
+    font-size: 2rem;
+    /* border: 1px solid red; */
+}
+.some-facts-P{
+    height: 52px;
+    width: 542px;
+    margin-top: -20px;
+    font-size: 1rem;
+    /* border: 1px solid red; */
+
 }

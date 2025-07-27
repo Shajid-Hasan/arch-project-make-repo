@@ -297,5 +297,32 @@ main > section{
 .icon-P-2{
     text-align: center;
     font-size: 1rem;
+    margin-top: -1px;
     /* font-weight: 10; */
+}
+
+/* Sponspors */
+
+.sponsor{
+    text-align: center;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+
+.sponsor-T{
+    font-size: 2rem;
+}
+.sponsor-P{
+    text-align: center;
+    margin-top: -15px;
+    margin: 0 auto;
+    width: 542px;
+    font-size: 1rem;
+    /* border: 1px solid red; */
+}
+
+/* Sponsor Logo */
+.sponsor-logo{
+    margin-top: -45px;
+    justify-content: space-around;
 }
